@@ -3,7 +3,7 @@
 ### By Thalloju Shivaram
 
 
-## 🔗Live Link -: [Headphones](https://prodimage.netlify.app/)
+## 🔗Live Link -: [Product Home Page](https://prodimage.netlify.app/)
  
 
 ---
