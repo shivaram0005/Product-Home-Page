@@ -3,7 +3,7 @@
 ### By Thalloju Shivaram
 
 
-## 🔗Live Link -: [Headphones]()
+## 🔗Live Link -: [Headphones](https://prodimage.netlify.app/)
  
 
 ---
@@ -17,4 +17,4 @@
 
 - This project gave me good learning experience.
 - I learned how to use HTML and CSS to create a beutiful website.
-## This project took around 6 hours to complete.
+## This project took around 1 hours to complete.
