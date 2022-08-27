@@ -14,6 +14,7 @@ nav{
     width: 90%;
     margin: 0 auto;
     margin-top: 20px;
+    
 }
 nav .logo{
     width: 100px;
@@ -38,6 +39,8 @@ nav img{
 nav .nav-items .active-item{
     color: #fe5e35;
 }
+
+
 .intro-section{
     display: flex;
     width: 90%;
@@ -157,4 +160,20 @@ nav .nav-items .active-item{
     font-size: 17px;
     margin-top: 48px;   
     cursor: pointer;
+}
+
+@media screen and (max-width:480px) {
+
+    nav .nav-items{
+        visibility: hidden;
+    }
+    nav .svgicon{
+        visibility: hidden;
+    }
+    nav fa-bars{
+        display: block;
+    }
+   
+   
+    
 }
