@@ -39,7 +39,9 @@ nav img{
 nav .nav-items .active-item{
     color: #fe5e35;
 }
-
+nav .barss{
+    display: none;
+}
 
 .intro-section{
     display: flex;
@@ -162,18 +164,35 @@ nav .nav-items .active-item{
     cursor: pointer;
 }
 
-@media screen and (max-width:480px) {
+@media screen and (max-width:797px) {
 
+ 
+   .intro-section{
+    display: flex;
+    flex-direction: column-reverse;
+    position: relative;
+    top: 50px;
+   }
+   .intro-section .left-section{
+    
+    position: relative;
+    top: 100px;
+   }
+    
+}
+@media screen and (max-width:1324px) {
     nav .nav-items{
-        visibility: hidden;
-    }
+        display: none;
+        
+    }    
+
     nav .svgicon{
-        visibility: hidden;
+        display: none;
     }
-    nav fa-bars{
+    
+    nav .barss{
         display: block;
     }
    
-   
-    
 }
+
